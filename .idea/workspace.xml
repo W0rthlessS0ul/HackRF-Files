@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea36041-5f22-4b4a-aaff-4619eeb3c8a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLETS/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLETS/remoute_off.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLETS/remoute_on.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLET/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLET/remoute_off.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SAMPLES/REMOUTE_OUTLET/remoute_on.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLAYLIST/DORBELLS.PPL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLAYLIST/RESTAURANT_PAGERS.PPL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PLAYLIST/TESLAS.PPL" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +54,11 @@
       <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\SAMPLES\REMOUTE_OUTLET" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\SAMPLES\REMOUTE_OUTLETS" />
+      <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files" />
       <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\SAMPLES\REMOUTE_OUTLET" />
       <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\PLAYLIST" />
-      <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files" />
       <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\SAMPLES\LED" />
-      <recent name="C:\Users\человечина\Documents\GitHub\HackRF-Files\SAMPLES\DORBELLS" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
