@@ -14,8 +14,8 @@ If you own a HackRF Portapack, you can upload these files to your device, giving
 
 -----
 ## The repository is still under development.
-Currently, not all signals have been uploaded, but I am actively working on correcting this.
-Currently, not all signals have been uploaded, but I'm actively working on it. You can help expedite the process by adding this repository to your favorites or by treating me to a coffee (more caffeine = less sleep = more work).
+Currently, not all signals have been uploaded, but I'm actively working on it. 
+You can help expedite the process by adding this repository to your favorites or by treating me to a coffee (more caffeine = less sleep = more work).
 
 -----
 ## Thank you for your support!
