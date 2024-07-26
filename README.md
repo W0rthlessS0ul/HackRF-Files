@@ -1,2 +1,1 @@
-# HackRF-Files
-Collection of resources for HackRF
+## Collection of resources for HackRF
