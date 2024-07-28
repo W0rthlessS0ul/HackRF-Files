@@ -1,26 +1,51 @@
-## Collection of resources for HackRF
+# 🌟 Collection of Resources for HackRF 🌟
 -----
-All these files have been tested for functionality using the HackRF One combined with the Portapack H2 running the Mayhem firmware.
+Welcome to the **HackRF Portapack** resources repository! 🎉
+All files in this collection have been thoroughly tested with the **HackRF One** paired with the **Portapack H2** running the **Mayhem firmware**.
 
------
-## What should I do with this?
-If you own a HackRF Portapack, you can upload these files to your device, giving you a collection of remote controls for various lighting systems, doorbells, cars, and more.
-
------
-## How to install?
-
-1. Unpack the two archives located in the SAMPLES/REMOTE_OUTLETS folder.
-2. Transfer the PLAYLIST and SAMPLES folders to the root directory of your Portapack's SD card, replacing any existing files.
+## 📚 Table of Contents
+- [🚀 What Can You Do with This?](#-what-can-you-do-with-this)
+- [📦 How to Install?](#-how-to-install)
+- [🔄 Ongoing Development](#-ongoing-development)
+- [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
+- [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
 -----
-## The repository is still under development.
-Currently, not all signals have been uploaded, but I'm actively working on it. 
-You can help expedite the process by adding this repository to your favorites or by treating me to a coffee (more caffeine = less sleep = more work).
+
+## 🚀 What Can You Do with This?
+If you own a **HackRF Portapack**, you can upload these files to your device, unlocking a variety of remote controls for:
+- **Lighting Systems** 💡
+- **Doorbells** 🚪
+- **Cars** 🚗
+- And much more!
 
 -----
-## Thank you for your support!
-If you like my project and want to support me, you can treat me to a cup of coffee ☕.
 
-**BTC**: `3PpBpNs1wXkhA93g5tfpMf4qierz4m9BCW` (this is a SegWit address)
+## 📦 How to Install?
+Follow these simple steps to get started:
 
-Every donation you make will be greatly appreciated and will help me continue developing this project!
+1. **Unpack** the two archives located in the `SAMPLES/REMOTE_OUTLETS` folder.
+2. **Transfer** the `PLAYLIST` and `SAMPLES` folders to the **root directory** of your Portapack's **SD card**, ensuring you replace any existing files.
+
+-----
+
+## 🔄 Ongoing Development
+This repository is still a *work in progress*. At the moment, not all signals have been uploaded, but I am dedicated to enhancing this resource. I aim to release one update **daily**! 
+
+Thank you for your patience and unwavering support as I continue to improve this repository for you. 😊
+
+-----
+
+## ❤️ Thank You for Your Support!
+If you appreciate this project and want to show your support, consider buying me a cup of coffee! ☕ 
+
+**BTC Address:** `3PpBpNs1wXkhA93g5tfpMf4qierz4m9BCW` (this is a **SegWit** address)
+
+Every donation you make is deeply appreciated and will help in the ongoing development of this project!
+
+---
+
+### 🌐 Follow Me for Updates
+Stay connected and receive the latest updates:
+
+[![GitHub](https://img.shields.io/badge/GitHub-W0rthlessS0ul-181717?style=flat&logo=github&logoColor=white)](https://github.com/W0rthlessS0ul)
