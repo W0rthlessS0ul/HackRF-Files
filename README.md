@@ -22,10 +22,8 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 -----
 
 ## 📦 How to Install?
-Follow these simple steps to get started:
 
-1. **Unpack** the two archives located in the `SAMPLES/REMOTE_OUTLETS` folder.
-2. **Transfer** the `PLAYLIST` and `SAMPLES` folders to the **root directory** of your Portapack's **SD card**, ensuring you replace any existing files.
+- **Transfer** the `PLAYLIST` and `SAMPLES` folders to the **root directory** of your Portapack's **SD card**, ensuring you replace any existing files.
 
 -----
 
