@@ -47,3 +47,5 @@ Every donation you make is deeply appreciated and will help in the ongoing devel
 Stay connected and receive the latest updates:
 
 [![GitHub](https://img.shields.io/badge/GitHub-W0rthlessS0ul-181717?style=flat&logo=github&logoColor=white)](https://github.com/W0rthlessS0ul)
+
+[![Join Discord](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xrJMr4qcSw)
