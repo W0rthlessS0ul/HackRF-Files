@@ -6,7 +6,6 @@ All files in this collection have been thoroughly tested with the **HackRF One**
 ## 📚 Table of Contents
 - [🚀 What Can You Do with This?](#-what-can-you-do-with-this)
 - [📦 How to Install?](#-how-to-install)
-- [🔄 Ongoing Development](#-ongoing-development)
 - [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
