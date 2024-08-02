@@ -27,13 +27,6 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 
 -----
 
-## 🔄 Ongoing Development
-This repository is still a *work in progress*. At the moment, not all signals have been uploaded, but I am dedicated to enhancing this resource. I aim to release one update **daily**! 
-
-Thank you for your patience and unwavering support as I continue to improve this repository for you. 😊
-
------
-
 ## ❤️ Thank You for Your Support!
 If you appreciate this project and want to show your support, consider buying me a cup of coffee! ☕ 
 
