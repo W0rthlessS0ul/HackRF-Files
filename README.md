@@ -22,7 +22,7 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 
 ## 📦 How to Install?
 
-- **Transfer** the `PLAYLIST` and `SAMPLES` folders to the **root directory** of your Portapack's **SD card**, ensuring you replace any existing files.
+- **Move** all files from the repository to the **root directory** of your **HackRF's SD card**, ensuring that any existing files are replaced.
 
 -----
 
