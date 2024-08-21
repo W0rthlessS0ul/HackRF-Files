@@ -16,7 +16,7 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 - **Lighting Systems** 💡
 - **Doorbells** 🚪
 - **Cars** 🚗
-- And much more!
+- **And much more!**
 
 -----
 
