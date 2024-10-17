@@ -1,5 +1,4 @@
 # 🌟 Collection of Resources for HackRF 🌟
------
 Welcome to the **HackRF Portapack** resources repository! 🎉
 All files in this collection have been thoroughly tested with the **HackRF One** paired with the **Portapack H2** running the **Mayhem firmware**.
 
