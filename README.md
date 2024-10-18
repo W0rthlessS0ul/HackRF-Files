@@ -1,5 +1,4 @@
 # 🌟 Collection of Resources for HackRF 🌟
------
 Welcome to the **HackRF Portapack** resources repository! 🎉
 All files in this collection have been thoroughly tested with the **HackRF One** paired with the **Portapack H2** running the **Mayhem firmware**.
 
@@ -35,7 +34,7 @@ Every donation you make is deeply appreciated and will help in the ongoing devel
 
 ---
 
-### 🌐 Follow Me for Updates
+## 🌐 Follow Me for Updates
 Stay connected and receive the latest updates:
 
 [![GitHub](https://img.shields.io/badge/GitHub-W0rthlessS0ul-181717?style=flat&logo=github&logoColor=white)](https://github.com/W0rthlessS0ul)
