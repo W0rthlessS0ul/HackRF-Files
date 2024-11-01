@@ -1,6 +1,12 @@
-# 🌟 Collection of Resources for HackRF 🌟
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/176677387" width="150" height="auto" />
+  <h1> 🌟 Collection of Resources for HackRF 🌟 </h1>
+</div>
+
 Welcome to the **HackRF Portapack** resources repository! 🎉
 All files in this collection have been thoroughly tested with the **HackRF One** paired with the **Portapack H2** running the **Mayhem firmware**.
+
+-----
 
 ## 📚 Table of Contents
 - [🚀 What Can You Do with This?](#-what-can-you-do-with-this)
