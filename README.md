@@ -11,7 +11,7 @@ All files in this collection have been thoroughly tested with the **HackRF One**
 ## 📚 Table of Contents
 - [🚀 What Can You Do with This?](#-what-can-you-do-with-this)
 - [📦 How to Install?](#-how-to-install)
-- [❤️ Thank You for Your Support!](#-thank-you-for-your-support)
+- [❤️ Support the project](#-support-the-project)
 - [🌐 Follow Me for Updates](#-follow-me-for-updates)
 
 -----
@@ -31,7 +31,7 @@ If you own a **HackRF Portapack**, you can upload these files to your device, un
 
 -----
 
-## ❤️ Thank You for Your Support!
+## ❤️ Support the project
 If you would like to show your support, you can star my repository or follow me! If you appreciate this project, consider buying me a cup of coffee to keep the energy flowing! ☕ Thank you for your support!
 
 **BTC Address:** `bc1qvul4mlxxw5h2hnt8knnxdrxuwgpf4styyk20tm`
